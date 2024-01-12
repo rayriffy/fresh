@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Phumrapee Limpianchop",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.3"
+  }
+}
